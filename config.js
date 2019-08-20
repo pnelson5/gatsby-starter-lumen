@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://patricknelson.dev',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Patrick Nelson',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'patricknelsondev',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
@@ -25,16 +25,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Patrick Nelson',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'pnelson5@pm.me',
+      twitter: '@Patrick_Nelson00',
+      github: 'pnelson5'
     }
   }
 };
