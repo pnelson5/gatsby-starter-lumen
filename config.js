@@ -4,11 +4,11 @@ module.exports = {
   url: 'https://patricknelson.dev',
   pathPrefix: '/',
   title: 'Blog by Patrick Nelson',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Software development, architecture and system design.',
   copyright: '© All rights reserved.',
   disqusShortname: 'patricknelsondev',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-146031377-1',
   useKatex: false,
   menu: [
     {
@@ -26,8 +26,8 @@ module.exports = {
   ],
   author: {
     name: 'Patrick Nelson',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/headshot_square.png',
+    bio: 'Developer',
     contacts: {
       email: 'pnelson5@pm.me',
       twitter: '@Patrick_Nelson00',
